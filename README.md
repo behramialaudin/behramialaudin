@@ -1,7 +1,7 @@
 Hi there , i'm Alaudin Behrami 
 
 
-- 🔭 I’m currently working on SDS - Software Development Solution
-- 🌱 I’m currently learning Vue JS , Laravel 
+- 🔭 I’m currently working on  Attributy
+- 🌱 I’m currently learning React | Next | TypeScript | Node 
 - 📫 How to reach me: alaudinb@outlook.de
 
